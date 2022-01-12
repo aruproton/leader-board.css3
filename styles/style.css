@@ -1,0 +1,8 @@
+.body{
+    background-color: F3F1FF;
+    
+}
+/* top players style */
+.players{
+    display: grid;
+}
