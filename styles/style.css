@@ -71,3 +71,10 @@ font-size: 18px;
     font-size: 16px;
     color: #562EFF;
 }
+/* ---------------------
+    courses stylea 
+ -------------------- */
+.course .course-banner img{
+    width: 224px;
+    height: 104px;
+}
